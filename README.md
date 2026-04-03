@@ -1,16 +1,99 @@
-# React + Vite
+# ⚛️ Lista de Exercícios React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Conjunto de 15 exercícios desenvolvidos com React como parte das atividades práticas da faculdade.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Sobre o Projeto
 
-## React Compiler
+Este projeto consiste em uma lista de **15 exercícios básicos em React**, desenvolvidos com o objetivo de praticar conceitos fundamentais da biblioteca, como:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* JSX
+* Interpolação de variáveis
+* Renderização de conteúdo dinâmico
+* Estrutura de componentes
 
-## Expanding the ESLint configuration
+Os exercícios são exibidos diretamente na interface, utilizando expressões JavaScript dentro do JSX.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎓 Contexto Acadêmico
+
+Projeto desenvolvido na faculdade **Flamingo**, durante o curso de **Análise e Desenvolvimento de Sistemas (ADS)**, como parte das primeiras atividades com React.
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+* React
+* JavaScript (ES6+)
+* JSX
+
+---
+
+## 🧠 Conceitos Praticados
+
+Durante a implementação dos exercícios, foram aplicados:
+
+* Uso de variáveis dentro do JSX
+* Operações matemáticas em tempo de renderização
+* Concatenação de strings
+* Exibição de dados dinâmicos
+* Estrutura básica de um componente funcional
+
+---
+
+## 🖥️ Estrutura do Código
+
+O projeto é baseado em um único componente principal (`App.jsx`), onde os exercícios são organizados de forma sequencial e separados por comentários.
+
+Cada exercício demonstra um conceito específico, como:
+
+* Exibição de dados simples
+* Operações matemáticas
+* Uso de múltiplas variáveis
+* Montagem de frases dinâmicas
+* Simulação de dados de perfil
+
+---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+
+```
+git clone https://github.com/Gabriel-H-Alves/SEU-REPOSITORIO.git
+```
+
+2. Acesse a pasta do projeto:
+
+```
+cd SEU-REPOSITORIO
+```
+
+3. Instale as dependências:
+
+```
+npm install
+```
+
+4. Execute o projeto:
+
+```
+npm run dev
+```
+
+---
+
+## 👨‍💻 Autor
+
+**Gabriel Henrique Alves Rocha**
+
+* 💼 LinkedIn: https://www.linkedin.com/in/gabriel-henrique-a84429250/
+* 🐙 GitHub: https://github.com/Gabriel-H-Rocha
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins acadêmicos.
